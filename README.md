@@ -23,7 +23,7 @@ New Machine is a shell script to setup a new macOS installation with all my favo
 * [pinentry-mac](https://github.com/GPGTools/pinentry-mac) 
 
 **Image tools:**
-* [ImageMagick](https://www.imagemagick.org/) for converting, cropping, resizing and renaming images in the command line interface.
+* [ImageMagick](https://www.imagemagick.org/) for converting, cropping, resizing and renaming images in the command line.
 
 **Programming languages and configuration:**
 * [Node.js](https://nodejs.org/) for running JavaScript applications.
@@ -36,16 +36,22 @@ New Machine is a shell script to setup a new macOS installation with all my favo
 * [Brave](https://brave.com/) for browsing the web fast and secure.
 * [Caffeine](http://lightheadsw.com/caffeine/) to keep your Mac awake.
 * [Google Chrome](https://www.google.com/chrome/) for browsing the web.
+* [Cryptomater](https://cryptomator.org/) for cloud storage encryption.
 * [CyberDuck](https://cyberduck.io/) for FTP transfers.
+* [Discord](https://discord.com/) for a chat.
 * [DropBox](https://www.dropbox.com/) for cloud storage.
 * [Evernote](https://evernote.com/) to get thoughts organized.
+* [Figma](https://www.figma.com/) for web design.
 * [FontExplorer X](https://www.fontexplorerx.com/) for fonts organization.
 * [FontPrep](https://www.fontexplorerx.com/) for font generation.
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/) for browsing the web.
 * [iTerm2](https://www.iterm2.com/) for a nicer terminal.
 * [KeePassX](https://www.keepassx.org/) for password managment.
-* [Mullvad](https://mullvad.net/) for online privacy.
-* [Slack](https://slack.com/) for team communication.
+* [Keybase](https://keybase.io/) to map social media identities to encryption keys
+* [Mullvad](https://mullvad.net/) for VPN.
+* [Pock](https://pock.dev/) for managing macOS touch bar.
+* [Processing](https://processing.org/) for creative fun.
+* [Slack](https://slack.com/) for team work communication.
 * [Spotify](https://www.spotify.com/) for music.
 * [Sketch](https://www.sketchapp.com/) for digital design.
 * [Sketch Toolbox](http://sketchtoolbox.com/) to manage plugins in Sketch.
@@ -55,6 +61,7 @@ New Machine is a shell script to setup a new macOS installation with all my favo
 * [Tor](https://www.torproject.org/) for online privacy.
 * [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) for browsing the web privately.
 * [Transmission](https://transmissionbt.com/) for torrents.
+* [Transmit](https://panic.com/transmit/) for FTP.
 * [Vagrant](https://www.vagrantup.com/) for creating and configuring development environments.
 * [Vagrant Manager](http://vagrantmanager.com/) to keep all vagrant machines in one place.
 * [VeraCrypt](https://veracrypt.codeplex.com/) for disk encryption.
@@ -64,8 +71,11 @@ New Machine is a shell script to setup a new macOS installation with all my favo
 **Applications for security:**
 * [BlockBlock](https://objective-see.com/products/blockblock.html) for monitoring persistence locations.
 * [DHS](https://objective-see.com/products/dhs.html) to scan for dylib hijacking.
-* [KnockKnock](https://objective-see.com/products/knockknock.html) to uncover persistently installed software.
-* [OverSight](https://objective-see.com/products/oversight.html) for monitoring mic and webcam.
+* [Do Not Disturb](https://objective-see.com/products/dnd.html) to protect against "evil maids".
+* [Knock Knock](https://objective-see.com/products/knockknock.html) to uncover persistently installed software.
+* [LuLu](https://objective-see.com/products/lulu.html) as a free, open-source firewall.
+* [OverSight](https://objective-see.com/products/oversight.html) for mic and webcam monitoring.
+* [ReiKey](https://objective-see.com/products/reikey.html) against "event taps".
 * [Security Growler](https://pirate.github.io/security-growler/) for notification whenever SSH, VNC, sudo, or other auth events occur.
 * [TaskExplorer](https://objective-see.com/products/taskexplorer.html) to visually explore all running tasks.
 
