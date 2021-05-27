@@ -37,7 +37,6 @@ New Machine is a shell script to setup a new macOS installation with all my favo
 * [Caffeine](http://lightheadsw.com/caffeine/) to keep your Mac awake.
 * [Google Chrome](https://www.google.com/chrome/) for browsing the web.
 * [Cryptomater](https://cryptomator.org/) for cloud storage encryption.
-* [CyberDuck](https://cyberduck.io/) for FTP transfers.
 * [Discord](https://discord.com/) for a chat.
 * [DropBox](https://www.dropbox.com/) for cloud storage.
 * [Evernote](https://evernote.com/) to get thoughts organized.
