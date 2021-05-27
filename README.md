@@ -48,6 +48,7 @@ New Machine is a shell script to setup a new macOS installation with all my favo
 * [KeePassX](https://www.keepassx.org/) for password managment.
 * [Keybase](https://keybase.io/) to map social media identities to encryption keys
 * [Mullvad](https://mullvad.net/) for VPN.
+* [Notion](https://www.notion.so/) for overall organization.
 * [Pock](https://pock.dev/) for managing macOS touch bar.
 * [Processing](https://processing.org/) for creative fun.
 * [Slack](https://slack.com/) for team work communication.
