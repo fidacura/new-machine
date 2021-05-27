@@ -141,6 +141,7 @@ brew cask install --appdir="/Applications" iterm2
 brew cask install --appdir="/Applications" keepassx
 brew cask install --appdir="/Applications" keybase
 brew cask install --appdir="/Applications" mullvad
+brew cask install --appdir="/Applications" notion
 brew cask install --appdir="/Applications" pock
 brew cask install --appdir="/Applications" processing
 brew cask install --appdir="/Applications" slack
